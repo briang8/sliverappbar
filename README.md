@@ -39,7 +39,7 @@ The three key scroll behavior properties that control its behaviour are:
 
 ## Screenshot
 
-![App UI](assets/Screenshot 2026-02-24 214121.png)
+![App UI](./assets/Screenshot%202026-02-24%20214121.png)
 
 ---
 
